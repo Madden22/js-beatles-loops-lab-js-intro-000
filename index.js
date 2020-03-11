@@ -18,7 +18,7 @@ function johnLennonFacts(fac) {
 }
 
 function iLoveTheBeatles(n) {
-  st = []
+  var st = []
   do {
     st.push('I love the Beatles!')
     n++
