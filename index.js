@@ -16,3 +16,13 @@ function johnLennonFacts(fac) {
   }
   return st
 }
+
+function iLoveTheBeatles(n) {
+  st = []
+  do {
+    st.push('I love the Beatles!')
+    n++
+  } while (n < 15)
+  return st
+}
+
