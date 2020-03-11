@@ -6,3 +6,12 @@ function theBeatlesPlay(mus, instr) {
   }
   return st
 }
+
+function johnLennonFacts(fac) {
+  var i = 0
+  var st = []
+  while (i < fac.length) {
+    st[i] = fac[i] + '!!!'
+    i++
+  }
+}
