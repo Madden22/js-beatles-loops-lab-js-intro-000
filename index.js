@@ -14,4 +14,5 @@ function johnLennonFacts(fac) {
     st[i] = fac[i] + '!!!'
     i++
   }
+  return st
 }
